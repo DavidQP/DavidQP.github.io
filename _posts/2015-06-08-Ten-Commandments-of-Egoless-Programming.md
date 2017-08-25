@@ -5,9 +5,25 @@ description: "The Ten Commandments of Egoless Programming"
 modified: 2015-06-08
 ---
 
-<img src="http://i.imgur.com/nQFuJBO.jpg">
+<img src="http://agenciadenoticias.unal.edu.co/uploads/pics/AgenciaUN_0912_1_30.jpg">
 
-<b>1. Understand and accept that you will make mistakes.</b> The point is to find them early, before they make it into production. Fortunately, except for the few of us developing rocket guidance software at JPL, mistakes are rarely fatal in our industry, so we can, and should, learn, laugh, and move on.
+<h1>Acerca de mi</h1>
+
+<h2>Información básica</h2>
+
+<p>Actualmente estoy estudiando ingenieria de sistemas y computacion en la Universidad Nacional de Colombia, tengo 21 años y soy de Bogota</p>
+
+<h2>Intereses</h2>
+<p>Durante mi estancia en la vida academica, he cogido gusto por diversos temas que actualmente, me parece que son relevanta como:</p>
+<li>Desarrollo Web</li>
+<li>Desarrollo de aplicaciones</li>
+<li>Aprendizaje de máquina</li>
+<li>Computacion visual</li>
+
+<h2>Proyectos</h2>
+<a href="https://github.com/DavidQP/Projects/tree/master/Proyecto_ironhacks">Proyecto Iron hacks</a>
+
+<!--<b>1. Understand and accept that you will make mistakes.</b> The point is to find them early, before they make it into production. Fortunately, except for the few of us developing rocket guidance software at JPL, mistakes are rarely fatal in our industry, so we can, and should, learn, laugh, and move on.
 <br><br><b>2. You are not your code.</b> Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
 <br><br><b>3. No matter how much "karate" you know, someone else will always know more.</b> Such an individual can teach you some new moves if you ask. Seek and accept input from others, especially when you think it's not needed.
 <br><br><b>4. Don't rewrite code without consultation.</b> There's a fine line between "fixing code" and "rewriting code." Know the difference, and pursue stylistic changes within the framework of a code review, not as a lone enforcer.
@@ -20,6 +36,6 @@ modified: 2015-06-08
 
 (The Psychology of Computer Programming was written way back in 1971)
 
-<br>
+<br> -->
 
 <div class="fb-comments" data-href="https://www.facebook.com/photo.php?fbid=426800044160287" data-width="650" data-numposts="3" data-colorscheme="light"></div>
