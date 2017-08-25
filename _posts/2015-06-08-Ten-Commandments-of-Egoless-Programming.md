@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Ten Commandments of Egoless Programming
-description: "The Ten Commandments of Egoless Programming"
+title: Un poco de mi
+description: "Un breve recuento de mi vida actual"
 modified: 2015-06-08
 ---
 

@@ -1,5 +1,5 @@
-title:            Huy Nguyen
-description:      David Ng
+title:            Bienvenidos
+description:      David Q.
 disqus_shortname: 
 reading_time:     false
 comments:         yes
@@ -10,21 +10,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           David Ng
+  name:           David Q.
   avatar:         avatar.jpg
-  bio:            "The only thing that never changes is that everything always changes."
+  bio:            
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        david15894
-  facebook:       david15894
-  github:         minhhuy150894
+  twitter:        Tringer
+  facebook:       juquinpe
+  github:         DavidQP
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +HuyNguyenMinhStormChaser
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
