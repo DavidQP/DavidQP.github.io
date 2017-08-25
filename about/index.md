@@ -4,12 +4,12 @@ title: About me
 comments: false
 image: 
   feature: "img.jpg"
-modified: 2014-04-04
+modified: 2017-08-24
 ---
 
 <h2>Contact information</h2>
 
-> Name: <b>Huy Nguyen</b><br>
-> Email: <b>n@mhuy.xyz</b><br>
-> Mobile: +(84) 935 059109<br>
-> Languages: Vietnamese, American English<br>
+> Name: <b>Juan David Quintero</b><br>
+> Email: <b>judquinterope@unal.edu.co</b><br>
+> Mobile: 
+> Languages: Español, American English<br>
