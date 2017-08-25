@@ -1,15 +1,21 @@
----
-layout: compress
----
-<!DOCTYPE html>
-<html lang="en">
-    {% include head.html %}
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    {% include /head.html %}
     <body>
-        {% include svg-icons.html %}
-        {% include header-default.html %}
-            <main role="main" class="content">
+        <div id="wrapper">
+        {% include /header.html %}
+
+            <!-- Main -->
+            <div id="main">
                 {{ content }}
-            </main>
-        {% include scripts.html %}
-    </body>
+
+            </div>
+            {% include /footer.html %}
+		</div>
+	</body>
 </html>
