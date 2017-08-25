@@ -15,7 +15,7 @@ customize your site in ``_config.yml``
 # Site settings
 description: A blog about lorem ipsum
 baseurl: "" # the subpath
-url: "https://davidqp.github.io/aboutme" # the base hostname &/|| protocol for your site 
+url: "https://github.com/DavidQP/DavidQP.github.io/aboutme.html" # the base hostname &/|| protocol for your site 
 
 # User settings
 username: Lorem Ipsum
